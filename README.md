@@ -9,3 +9,8 @@
 敏捷开发部分不方便归纳故只记录了一些主干内容，建议参考课件复习
 
 ⚠️笔记没有遵循任何严格的换行、缩进、标题语法，最好配合可以实时预览md的笔记软件食用
+
+## LICENSE
+_© 2024. This work is openly licensed via [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._
+
+![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
